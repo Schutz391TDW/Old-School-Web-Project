@@ -1,0 +1,4 @@
+gauntlet|The Infinity Gauntlet|16.99|https://i.annihil.us/u/prod/marvel/i/mg/3/10/51f69304023ed/portrait_uncanny.jpg
+ms|Ms. Marvel Vol. 1|12.98|https://i.annihil.us/u/prod/marvel/i/mg/7/50/59e66f5a876c1/portrait_uncanny.jpg
+captain|Captain Marvel Vol. 1|14.32|https://i.annihil.us/u/prod/marvel/i/mg/a/10/538e0cfe954c8/portrait_uncanny.jpg
+ant|Ant-Man: Season One|7.08|https://i.annihil.us/u/prod/marvel/i/mg/f/50/56cdcd246afe3/portrait_uncanny.jpg
